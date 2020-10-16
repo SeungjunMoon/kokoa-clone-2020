@@ -13,7 +13,6 @@
 }
 
 .status-bar__column:nth-child(2) {
-  font-weight: 700;
   display: flex;
   justify-content: center;
 }
