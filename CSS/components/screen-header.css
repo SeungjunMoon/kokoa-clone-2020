@@ -31,3 +31,15 @@
   left: 3px;
   bottom: 20px;
 }
+
+@keyframes rotatecog {
+  form {
+    transform: none;
+  }
+  to {
+    transform: rotateZ(360deg);
+  }
+}
+.screen-header__icons .fa-cog:hover {
+  animation: rotatecog 1s linear infinite;
+}
