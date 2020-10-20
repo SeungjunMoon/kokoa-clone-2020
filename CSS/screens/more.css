@@ -46,8 +46,8 @@
 }
 .phone-number__alert {
   background-color: white;
-  width: 15px;
-  height: 15px;
+  width: 13px;
+  height: 13px;
   border-radius: 10px;
   border: 2px solid tomato;
   display: flex;
@@ -58,5 +58,5 @@
   font-weight: 500;
   position: absolute;
   bottom: -1px;
-  right: -15px;
+  right: -20px;
 }
